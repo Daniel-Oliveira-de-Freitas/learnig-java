@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="learning-java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="palavras reservadas e operadores aritmeticos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="learnig-java" />
@@ -48,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="learnig-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -66,6 +71,7 @@
       <workItem from="1687798556259" duration="6994000" />
       <workItem from="1687849581300" duration="300000" />
       <workItem from="1687840767670" duration="2130000" />
+      <workItem from="1687872801891" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="learning-java">
       <created>1687798078864</created>
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687798078864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="palavras reservadas e operadores aritmeticos">
+      <created>1687873162370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687873162370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learning-java" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning-java" />
+    <MESSAGE value="palavras reservadas e operadores aritmeticos" />
+    <option name="LAST_COMMIT_MESSAGE" value="palavras reservadas e operadores aritmeticos" />
   </component>
 </project>
