@@ -26,10 +26,18 @@ public class Main2 {
         //operadores logicos
         boolean x = false;
         boolean y = true;
+        boolean z = true;
         System.out.println(x && y);
         System.out.println(x || y);
         System.out.println(x && x);
         System.out.println(y && y);
+        System.out.println((x && y) && z);
+        System.out.println((x && y) || z);
+        System.out.println(!x +", " + !y);
+
+        System.out.println("\n");
+        String name = "Mark";
+        System.out.println(10 > 8 || 2<= 2 && x && name.contains("M"));
 
     }
 }
