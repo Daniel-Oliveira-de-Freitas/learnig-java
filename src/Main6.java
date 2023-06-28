@@ -19,12 +19,25 @@ public class Main6 {
         for (int numero : numeros){
             System.out.println(numero);
         }
+        Arrays.stream(numeros).forEach(System.out::println);
 
-        String[] nomes= {"Ana","Paulo","John","Toshiba","Nagazaki"};
+        String[] nomes= {"Ana","Paula","John","Toshiba","Nagazaki"};
+        //Para e   continua
         for (String nome : nomes){
+            if (nome.equals("Toshiba")){
+                break;
+            }
+            System.out.println(nome);
+
+
+        }
+        for (String nome : nomes){
+
+            if (nome.startsWith("N")){
+                continue;
+            }
             System.out.println(nome);
         }
 
-        Arrays.stream(nomes).forEach(System.out::println);
     }
 }
