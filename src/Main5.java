@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main5 {
     public static void main(String[] args) {
         String sexo = "Masculino";
@@ -34,6 +36,34 @@ public class Main5 {
             default:
                 break;
         }
+
+
+        // Arrays são usados ​​para armazenar vários valores em uma única variável,
+        // em vez de declarar variáveis separadas para cada valor.
+        //Para declarar um array, defina o tipo de variável com colchetes :
+        int zero = 0;
+        int um = 1;
+
+        int [] n = new int[3];
+        System.out.println("\nArrays");
+        System.out.println(Arrays.toString(n));
+
+        System.out.println("\n");
+        boolean [] num = new boolean[2];
+        System.out.println(Arrays.toString(num));
+
+        System.out.println("\n");
+        n [0] = 0;
+        n [1] = 1;
+        n [2] = 2;
+        System.out.println(Arrays.toString(n));
+
+        // Forma simplificada e passar o array
+        int [] numeros = {4,1,14,9,5,12};
+        String [] nome = {"D","a","n","i","e","l"};
+        System.out.println(Arrays.toString(numeros));
+        System.out.println(Arrays.toString(nome));
+        System.out.println(numeros.length);
 
     }
 }
