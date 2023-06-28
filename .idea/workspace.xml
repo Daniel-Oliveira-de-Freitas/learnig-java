@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="Terminando arrays">
-      <change afterPath="$PROJECT_DIR$/src/Main7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="Terminando loops">
+      <change beforePath="$PROJECT_DIR$/src/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687977781537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Terminando loops">
+      <option name="closed" value="true" />
+      <created>1687982949517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687982949517</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +187,8 @@
     <MESSAGE value="palavras reservadas e operadores aritmeticos" />
     <MESSAGE value="arrays" />
     <MESSAGE value="Terminando arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminando arrays" />
+    <MESSAGE value="Terminando loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminando loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,7 +15,13 @@ public class Main7 {
         do {
             System.out.println("Contador doWhile: "  + cont);
             cont++;
-        } while (cont <= 10);
+        } while (cont <= 20);
+
+        int c= 21;
+        do {
+            System.out.println("Contador do While: "  + c);
+            c++;
+        } while (c <= 10);
 
         //O for loop
              for (i = 0; i <= 10; i++) {
