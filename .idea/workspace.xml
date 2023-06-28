@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="palavras reservadas e operadores aritmeticos" />
+    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="palavras reservadas e operadores aritmeticos">
+      <change afterPath="$PROJECT_DIR$/src/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -30,14 +43,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/daniel/Área de Trabalho/learnig-java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main5">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="learnig-java" />
@@ -45,8 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="learnig-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main5" />
       <module name="learnig-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,7 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main5" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -72,6 +99,18 @@
       <workItem from="1687849581300" duration="300000" />
       <workItem from="1687840767670" duration="2130000" />
       <workItem from="1687872801891" duration="779000" />
+      <workItem from="1687955257624" duration="363000" />
+      <workItem from="1687955631797" duration="909000" />
+      <workItem from="1687956553904" duration="206000" />
+      <workItem from="1687956769319" duration="58000" />
+      <workItem from="1687956840961" duration="88000" />
+      <workItem from="1687956938917" duration="84000" />
+      <workItem from="1687957035481" duration="300000" />
+      <workItem from="1687957347542" duration="33000" />
+      <workItem from="1687957392369" duration="166000" />
+      <workItem from="1687957575379" duration="845000" />
+      <workItem from="1687958804663" duration="796000" />
+      <workItem from="1687959613334" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="learning-java">
       <created>1687798078864</created>
@@ -108,5 +147,9 @@
     <MESSAGE value="learning-java" />
     <MESSAGE value="palavras reservadas e operadores aritmeticos" />
     <option name="LAST_COMMIT_MESSAGE" value="palavras reservadas e operadores aritmeticos" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
