@@ -64,6 +64,17 @@ public class Main5 {
         System.out.println(Arrays.toString(numeros));
         System.out.println(Arrays.toString(nome));
         System.out.println(numeros.length);
+        System.out.println(nome.length);
+
+        // arrays index
+        String d = nome[0];
+        String e = nome[4];
+        int x = numeros[3];
+        int y = numeros[5];
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(x);
+        System.out.println(y);
 
     }
 }
