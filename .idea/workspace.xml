@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="Terminando loops">
-      <change beforePath="$PROJECT_DIR$/src/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main7.java" afterDir="false" />
+    <list default="true" id="4d9acd15-fd60-491f-9b88-11404e79aa85" name="Changes" comment="Finalizando loops">
+      <change afterPath="$PROJECT_DIR$/src/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main7">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="learnig-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main9">
     <configuration name="Main2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main2" />
       <module name="learnig-java" />
@@ -92,12 +87,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main8" />
+      <module name="learnig-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main9" />
+      <module name="learnig-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main9" />
+        <item itemvalue="Application.Main8" />
         <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
         <item itemvalue="Application.Main5" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +136,8 @@
       <workItem from="1687957575379" duration="845000" />
       <workItem from="1687958804663" duration="796000" />
       <workItem from="1687959613334" duration="8806000" />
+      <workItem from="1688054186795" duration="602000" />
+      <workItem from="1688129021850" duration="2854000" />
     </task>
     <task id="LOCAL-00001" summary="learning-java">
       <created>1687798078864</created>
@@ -165,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687982949517</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finalizando loops">
+      <option name="closed" value="true" />
+      <created>1687983908003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687983908003</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +208,8 @@
     <MESSAGE value="arrays" />
     <MESSAGE value="Terminando arrays" />
     <MESSAGE value="Terminando loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminando loops" />
+    <MESSAGE value="Finalizando loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
